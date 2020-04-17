@@ -10,15 +10,16 @@ for food in foods: # recorre cada elemento de foods
 
 # Recorrer un rango
 for number in range(1, 8): # number es como una variable recien creada
-    print(number) # llega hasta un número antes del rango
+    print(number) # llega hasta un número antes del rango.
 
 for letter in "hello":
     print(letter) # muestra todos los caracteres
-print('')
+print('') # Verificar (espacio?)
 
 # While
 count = 4
 while count <=10:
     print(count)
     count = count + 1
-    
+#Pruebas con commit. diff  refleja sólo lo que se agrega, no muestra nada de lo que se quita?
+#Nueva linea en fin de archivo.
